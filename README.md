@@ -1,5 +1,14 @@
 # Survived-1-Year-Prediction
 
+```
+Code : Survived_1_year.ipynb
+```
+### Dataset 
+```
+Train set : https://raw.githubusercontent.com/dphi-official/Datasets/master/pharma_data/Training_set_begs.csv
+Test set : https://raw.githubusercontent.com/dphi-official/Datasets/master/pharma_data/Testing_set_begs.csv
+```
+
 ### Libraries
 ```
 1. Python>=3.8
