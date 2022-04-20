@@ -52,7 +52,7 @@ All the libraries that was used
 
 ##  Install libraries
 
-How to install all the necessary libraries
+How to install all the necessary libraries using pip
 ```
 pip install -r requirements.txt
 ```
