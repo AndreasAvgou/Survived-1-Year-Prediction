@@ -5,7 +5,7 @@ A hospital in the province of Greenland has been trying to improve its care cond
 
 ## Object
 
-Our object was to develop a [model](https://github.com/AndreasAvgou/Survived-1-Year-Prediction/blob/main/Survived_1_year.ipynb) that will predict the chances of survival of a patient after 1 year of treatment (Survived_1_year).
+Our object was to develop a [model](https://github.com/AndreasAvgou/Survived-1-Year-Prediction/blob/main/Survived_1_year.ipynb) that will predict the chances of survival of a patient after 1 year of treatment.
 
 ## Dataset 
 
