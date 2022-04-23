@@ -1,4 +1,5 @@
 # Survived 1 Year Prediction
+![image](https://user-images.githubusercontent.com/22665704/164944688-1b2cd040-b237-474e-9ed3-e97904b2195c.png)
 
 ## Problem Statement
 A hospital in the province of Greenland has been trying to improve its care conditions by looking at historic survival of the patients. They tried looking at their data but could not identify the main factors leading to high survivals.
